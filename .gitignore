@@ -1,0 +1,6 @@
+__pycache__/
+*.onnx
+*.wav
+*.pt
+.env
+.cache/
